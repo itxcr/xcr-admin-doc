@@ -15,3 +15,5 @@ pnpm-debug.log*
 
 # Editor directories and files
 .idea
+*.zip
+*.tar
